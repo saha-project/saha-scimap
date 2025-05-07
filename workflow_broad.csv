@@ -1,0 +1,9 @@
+,,4-1BB,B7-H3,Bcl-2,Beta-catenin,CCR7,CD11b,CD11c,CD123,CD127,CD138,CD14,CD15,CD16,CD163,CD19,CD20,CD27,CD3,CD31,CD34,CD38,CD39,CD4,CD40,CD45,CD45RA,CD56,CD68,CD8,CTLA4,EGFR,EpCAM,FABP4,FOXP3,Fibronectin,GITR,GZMA,GZMB,HLA-DR,Her2,ICAM1,ICOS,IDO1,IL-18,IL-1b,IgD,Ki-67,LAG3,LAMP1,Ms IgG1,NF-kB p65,PD-1,PD-L1,PD-L2,Rb IgG,SMA,STING,TCF7,Tim-3,VISTA,Vimentin,iNOS,p53,pan-RAS
+all,Immune,,,,,,,,,,,,,,,,,,,,,,,,,pos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+all,Stroma,,,,,,,,,,,,,,,,,,,,,,,,,neg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Immune,Myeloid,,,,,,,,,,,pos,,pos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Immune,T Cells,,,,,,,,,,,,,,,,,,anypos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Immune,B Cells,,,,,,,,,,,,,,,pos,pos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Myeloid,Dendritic Cells,,,,,,,pos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pos,,,,,,,,,,,,,,,,,,,,,,,,,
+Stroma,Endothelial,,,,,,,,,,,,,,,,,,,anypos,,,,,,,,,,,,,,,,,,,,,,pos,,,,,,,,,,,,,,,,,,,,,,,
+Stroma,Epithelial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,anypos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
